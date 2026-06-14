@@ -38,3 +38,9 @@ A cybersecurity project built using Python that monitors file integrity using SH
 - GUI Dashboard
 - Real-time Monitoring
 - Email Alerts
+## Demo
+
+Example output of the File Integrity Monitor:
+
+![Demo](screenshots/demo.png)
+![Demo](screenshots/demo1.png.png)
